@@ -1,16 +1,17 @@
 # AlmagServer
 
-List of articles
+#List of articles
 
-URI	/articles/
-Method	GET – Gets list of articles with versions.
-Gets list of articles with version.
+#URI	/articles/
+#Method	GET – Gets list of articles with versions.
+#Gets list of articles with version.
 
 Errors
 100 – Does Not Exist	Object does not exist
 
 
 Article
+
 URI	/articles/{id}/
 Method	GET – Gets article by its id.
 Gets article by its id.
